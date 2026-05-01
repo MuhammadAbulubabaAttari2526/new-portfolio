@@ -1,3 +1,4 @@
+
 /* Hamburger */
 const hamBtn = document.getElementById('hamBtn');
 const navMenu = document.getElementById('navMenu');
